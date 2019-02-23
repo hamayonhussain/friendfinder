@@ -1,17 +1,16 @@
 body {
-   width: 75%;
-   margin: 0px auto; 
-
-   display: flex;
-   min-height: 100vh;
-   flex-direction: column;
+    width: 75%;
+    margin: 0px auto;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 header {
     height: 100px;
 }
 
-header > nav {
+header>nav {
     height: 100%;
 }
 
@@ -23,13 +22,13 @@ main h1 {
     font-weight: bold;
 }
 
- main h2 {
+main h2 {
     font-weight: 300;
 }
 
 #logo-icon {
-   margin-left: 50px;
-   margin-top: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
 }
 
 #logo {
@@ -42,8 +41,8 @@ main h1 {
     margin-top: 20px;
 }
 
-.mainpanel{
-   margin: 50px;
+.mainpanel {
+    margin: 50px;
 }
 
 #mainpanel-content {
