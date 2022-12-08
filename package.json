@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hamayonhussain/friendfinder#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "heroku": "^7.18.5",
     "nodemon": "^1.18.10",
     "path": "^0.12.7"
